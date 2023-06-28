@@ -1,11 +1,11 @@
 # useAuth
 
- Hook for checking user authorization
+ Hook for checking User authorization
 
 ## Standard
 
 ### Install
 
-`npm i `
+`npm i ra6ty-use-auth`
 
 ### Hooks
